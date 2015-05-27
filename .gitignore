@@ -1,0 +1,7 @@
+.idea
+*.copyarea.db
+node_modules
+build
+build_release
+.grunt
+.tmp
