@@ -1,0 +1,22 @@
+{
+  "name": "jiraapi",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arogach/jiraapi.git"
+  },
+  "author": "Alexander Rogach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arogach/jiraapi/issues"
+  },
+  "homepage": "https://github.com/arogach/jiraapi",
+  "devDependencies": {
+    "request": "^2.58.0"
+  }
+}

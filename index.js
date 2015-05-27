@@ -1,3 +1,5 @@
-/**
- * Created by arogach on 27.05.15.
- */
+var jira = require('./lib/jiraapi');
+
+module.exports = jira;
+
+
