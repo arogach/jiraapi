@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/arogach/jiraapi",
   "devDependencies": {
-    "request": "^2.58.0"
+    "q": "^1.4.1",
+    "request": "^2.58.0",
+    "request-promise": "^0.4.2"
   }
 }

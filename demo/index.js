@@ -5,5 +5,6 @@ jira.init({
     username : 'arogach',
     host : 'https://airbiq.atlassian.net'
 });
-
-console.log(jira.getProject('DA'));
+jira.getProject('DA').then(function(response){
+  console.log(response);
+});
